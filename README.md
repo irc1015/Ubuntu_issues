@@ -1,3 +1,3 @@
 # Ubuntu Issues
 ## Ubuntu Learning
-### Ubuntu Error Fix
+## Ubuntu Error Fix
